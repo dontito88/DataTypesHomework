@@ -4,3 +4,9 @@ D:\Visual Studio\Projects\DataTypesAndVariables\CenturiesToMinutes\bin\Debug\Cen
 D:\Visual Studio\Projects\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
 D:\Visual Studio\Projects\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
 D:\Visual Studio\Projects\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb
+C:\Users\TheComp\Desktop\DataTypesAndVariables\DataTypesHomework\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+C:\Users\TheComp\Desktop\DataTypesAndVariables\DataTypesHomework\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+C:\Users\TheComp\Desktop\DataTypesAndVariables\DataTypesHomework\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb
+C:\Users\TheComp\Desktop\DataTypesAndVariables\DataTypesHomework\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+C:\Users\TheComp\Desktop\DataTypesAndVariables\DataTypesHomework\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+C:\Users\TheComp\Desktop\DataTypesAndVariables\DataTypesHomework\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
