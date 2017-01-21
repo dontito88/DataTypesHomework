@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea", "CircleArea\Ci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactSum", "ExactSum\ExactSum.csproj", "{66C10D0C-E725-4BDB-A06B-135E6B85D023}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Elevator\Elevator.csproj", "{5ECB7886-299B-4900-858F-DEE1EBE8F2F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{66C10D0C-E725-4BDB-A06B-135E6B85D023}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66C10D0C-E725-4BDB-A06B-135E6B85D023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66C10D0C-E725-4BDB-A06B-135E6B85D023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECB7886-299B-4900-858F-DEE1EBE8F2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECB7886-299B-4900-858F-DEE1EBE8F2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECB7886-299B-4900-858F-DEE1EBE8F2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECB7886-299B-4900-858F-DEE1EBE8F2F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
