@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeting", "Greeting\Greeti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeOfPyramid", "VolumeOfPyramid\VolumeOfPyramid.csproj", "{7260B409-F0CF-4D64-942D-960EB9C66707}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecNumsCorrection", "SpecNumsCorrection\SpecNumsCorrection.csproj", "{C59FB21D-0064-4A7B-A194-E51561780D44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{7260B409-F0CF-4D64-942D-960EB9C66707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7260B409-F0CF-4D64-942D-960EB9C66707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7260B409-F0CF-4D64-942D-960EB9C66707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59FB21D-0064-4A7B-A194-E51561780D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59FB21D-0064-4A7B-A194-E51561780D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59FB21D-0064-4A7B-A194-E51561780D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59FB21D-0064-4A7B-A194-E51561780D44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
